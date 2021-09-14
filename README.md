@@ -3,6 +3,7 @@ openshift kubernetes version mapping
 
 |Openshift Version|Kubernetes Version|
 | --------------: | ---------------: | 
+| 4.8  | 1.21 |
 | 4.7  | 1.20 |
 | 4.6  | 1.19 |
 | 4.5  | 1.18 |
